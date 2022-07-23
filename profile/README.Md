@@ -1,15 +1,8 @@
-# sh1chan's README
-
-The Project is about to create a Web UI for a REST Applications (not only)
-<br />
-It'll be a UI constructor for other applications, so that
-<br />
-I don't have to create a UI (REST) to interact with my applications
+Web UI Constructor - To interact with other applications
 
 ## Contributors
 
-Just a tool not a FKN unicorn, `clone` or create an `issue` so we can work on it
-<br />
+Just a tool not a FKN unicorn, `clone > RP` or create an `issue` so we can work on it
 ```
 # Simple Example (Image processing tool)
 python ipt.py -i <img> --crop 'x10:y20' -o <img_temp>
