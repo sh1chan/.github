@@ -1,3 +1,16 @@
+# sh1chan - Shinigami Chan (死神ちゃん)
+
+Mortal, and I want it to be simple and clear
+```
+/ - widgets (summary)
+	/me    - 自分 ?
+	/home  - home ?
+	/group - group ?
+		/cities
+		/relations {friends,family,relatives}
+	/...
+```
+
 Web UI Constructor - To interact with other applications
 ```
 => /workspaces/constructor/c/0
