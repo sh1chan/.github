@@ -8,3 +8,7 @@ Helper Services and Applications
 
 ## Applications
 - [Accountant](DOCS/README/ACCOUNTANT.md): Visualisation, Calculation
+
+### TODO
+- [ ] DELETE: [archive-shichan](https://github.com/sh1chan/archive-shichan)
+- [ ] DELETE: [archive-bakku-endo](https://github.com/sh1chan/archive-bakku-endo)
