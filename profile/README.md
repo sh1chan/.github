@@ -8,6 +8,7 @@ Helper Services and Applications
 
 ## Applications
 - [Accountant](DOCS/README/ACCOUNTANT.md): Visualisation, Calculation
+- [Profile](DOCS/README/PROFILE.md): Bookmark profiles and accounts
 
 ### TODO
 - [ ] DELETE: [archive-shichan](https://github.com/sh1chan/archive-shichan)
